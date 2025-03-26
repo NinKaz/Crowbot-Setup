@@ -2,7 +2,7 @@
     "color": "#6495ED",
     "prefix": "+",
     "name": "[+] Ayke",
-    "defaultjoinmessage": "{user} vient de rejoindre.Souhaitez lui/la la bienvenue !,
+    "defaultjoinmessage": "{user}" "vient de rejoindre.Souhaitez lui/la la bienvenue !".
     
 
     "owner": 
